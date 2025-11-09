@@ -2,7 +2,7 @@
 #include <conio.h>
 #define SIZE 5
 
-void main() 
+int main() 
 {
     int deque[SIZE];
     int front = -1, rear = -1;
@@ -146,3 +146,4 @@ void main()
 
     getch();
 }
+
